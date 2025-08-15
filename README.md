@@ -67,7 +67,9 @@ AI\_voice\_agent/
 6. **Open in browser**
 
    http://127.0.0.1:8000
-  
+
+7. <img width="1918" height="956" alt="Screenshot 2025-08-14 163706" src="https://github.com/user-attachments/assets/0ea3c6ee-0a23-432b-8404-37ec2276a4cd" />
+
 
 ## 🎯 Future Improvements
 
