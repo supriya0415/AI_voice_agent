@@ -79,5 +79,3 @@ AI\_voice\_agent/
 ## 📜 License
 
 This project is licensed under the MIT License.
-Kya mai screenshot wala section add kar du?
-```
